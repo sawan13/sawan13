@@ -12,7 +12,7 @@
 
 </div>
 
-# <h1><a href="https://sawan.dev](https://sawan13.github.io/sawan13/">sawan portfolio</a> - Visit my portfolio</h1>
+# <h1><a href="https://sawan13.github.io/sawan13/">Sawan Makwana</a> - Visit my portfolio</h1>
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sawan13&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
@@ -96,7 +96,7 @@
 
 ---
 
-## <img src="https://github.com/sawan13/sawan/blob/main/github/code.gif" width="32" align="left"> See my projects - [sawan/projects](https://sawan.dev/projects](https://sawan.dev](https://sawan13.github.io/sawan13/)
+## <img src="https://github.com/sawan13/sawan/blob/main/github/code.gif" width="32" align="left"> See my projects - [sawan/projects](https://sawan13.github.io/sawan13/)
 
 ## <img src="https://github.com/sawan13/sawan/blob/main/github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
 
